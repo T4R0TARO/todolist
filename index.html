@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <main>
+      <div class="header" id="header">
+        <h2>todo list</h2>
+        <input
+          class="user-input"
+          type="text"
+          placeholder="ex. Walk the dog..."
+        />
+        <span onclick="createNewElement()" class="addBtn">add</span>
+      </div>
+
+      <ul class="tasks">
+        <li>Task1</li>
+        <li class="checked">Task2</li>
+        <li>Task3</li>
+        <li class="checked">Task4</li>
+        <li>Task5</li>
+      </ul>
+    </main>
+
+    <script src="./scripts.js"></script>
+  </body>
+</html>
