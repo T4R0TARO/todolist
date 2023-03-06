@@ -22,8 +22,8 @@ User types into input bar which will create a new task item to the list. User cl
 
 ### Links
 
-- Solution URL: [Git Repo](https://github.com/T4R0TARO/sunnySideLandingPage)
-- Live Site URL: [Git Pages](https://t4r0taro.github.io/sunnySideLandingPage/)
+- Solution URL: [Git Repo](https://github.com/T4R0TARO/todolist)
+- Live Site URL: [Git Pages](https://t4r0taro.github.io/todolist/)
 
 ## Author
 
